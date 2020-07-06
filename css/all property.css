@@ -1,0 +1,118 @@
+.properties {
+    /*! display : flex;*/
+    align-items: value;
+    justify-content: value;
+    /*animation*/
+    animation-name: value;
+    animation-delay: 1s;
+    animation-direction: inherit;
+    animation-duration: 1s;
+    animation-fill-mode: initial;
+    animation-iteration-count: infinite;
+    /*background*/
+    background-color: value;
+    background-image: value;
+    background-origin: value;
+    background-position: value;
+    background-repeat: value;
+    background-size: value;
+    /*border*/
+    border: value;
+    border-color: value;
+    border-style: value;
+    border-width: value;
+    border-bottom: value;
+    border-bottom-color: value;
+    border-bottom-style: value;
+    border-bottom-width: value;
+    border-left: value;
+    border-left-color: value;
+    border-left-style: value;
+    border-left-width: value;
+    border-right: value;
+    border-right-color: value;
+    border-right-style: value;
+    border-right-width: value;
+    border-top: value;
+    border-top-color: value;
+    border-radius: value;
+    border-bottom-left-radius: value;
+    border-bottom-right-radius: value;
+    border-top-left-radius: value;
+    border-top-right-radius: value;
+    /*bottom*/
+    bottom: value;
+    box-shadow: value;
+    /*
+    * box model
+    */
+    box-sizing: border-box;
+    box-sizing: content-box;
+    /*clear*/
+    clear: value;
+    clip-path: value;
+    color: value;
+    cursor: value;
+    direction: value;
+    display: value;
+    font-family: value;
+    font-size: value;
+    font-style: value;
+    font-weight: value;
+    height: value;
+    left: value;
+    line-height: value;
+    /*list*/
+    list-style: value;
+    list-style-type: value;
+    /*margin*/
+    margin: value;
+    margin-bottom: value;
+    margin-left: value;
+    margin-right: value;
+    margin-top: value;
+    /*max*/
+    max-height: value;
+    max-lines: value;
+    max-width: value;
+    min-height: value;
+    min-width: value;
+    /*
+    * img fit 
+    !cover
+    !contain
+    */
+    object-fit: value;
+    /**opacity*/
+    opacity: value;
+    outline: value;
+    overflow: value;
+    overflow-x: value;
+    overflow-y: value;
+    /*padding*/
+    padding: value;
+    padding-bottom: value;
+    padding-left: value;
+    padding-right: value;
+    padding-top: value;
+    position: value;
+    /*resize textarea*/
+    resize: value;
+    right: value;
+    text-align: value;
+    text-shadow: value;
+    text-transform: value;
+    top: value;
+    transform: value;
+    transition: value;
+    transition-delay: value;
+    transition-duration: value;
+    vertical-align: value;
+    visibility: value;
+    white-space: value;
+    width: value;
+    word-break: value;
+    word-spacing: value;
+    word-wrap: value;
+    z-index: value;
+}
